@@ -63,11 +63,21 @@ The dataset contains information on daily box office performance for a movie, in
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/box-office-analysis.git
-   
-2. Open the Excel file located in the data/ folder.
-   
+2. Open the Excel file located in the 'data/' folder.
 3. Explore the scatter plots and correlation analysis in the relevant tabs to gain insights.
 
-# Future Enhancements
+#Future Enhancements
 - Time Series Analysis: Analyze how box office performance changes over time.
 - Predictive Modeling: Build a predictive model using multiple variables to estimate future box office performance.
+
+# Contributing
+Contributions are welcome! Follow these steps to contribute:
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+
+# Contact
+- Chetan Kumar Suppala - https://www.linkedin.com/in/chetankumarsuppala/
+- Projecct Repository - https://github.com/ChetanKumar421/BoxOfficeAnalysis/
