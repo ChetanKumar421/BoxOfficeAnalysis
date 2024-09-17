@@ -63,3 +63,7 @@ The dataset contains information on daily box office performance for a movie, in
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/box-office-analysis.git
+   
+2. Open the Excel file located in the data/ folder.
+   
+3. Explore the scatter plots and correlation analysis in the relevant tabs to gain insights.
