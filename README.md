@@ -18,7 +18,7 @@ This project focuses on analyzing box office performance based on several variab
 
 ## Tools Used
 
-- **Microsoft Excel**: Primary tool for data analysis, visualization, and correlation analysis.
+- **Microsoft Excel**: Primary tool for data analysis, visualization, and correlation analysis. 
 - **Excel Functions**:
   - `CORREL()`: Used for calculating correlation coefficients between key variables.
   - `INSERT CHART`: Used to create scatter plot visualizations of the data.
